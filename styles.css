@@ -42,7 +42,7 @@ a {
 .mission {
     display: flex;
     min-height: 400px;
-    background-image: url("anthony-fomin-Fv2UqrRVPGA-unsplash_small_cropped.jpg");
+    background-image: url("mission_image.jpg");
     background-size: cover;
 }
 
